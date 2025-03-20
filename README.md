@@ -1,6 +1,6 @@
 # Interior Design Website
 
-This is my first-ever project, a simple yet elegant interior design website showcasing modern interior, built using only HTML and CSS. The project was completed in **13 hours** and focuses on visual aesthetics rather than responsiveness.
+This is my first-ever project, a simple yet elegant interior design website showcasing modern interior, built using only HTML and CSS. The project was completed in **10 hours** and focuses on visual aesthetics rather than responsiveness.
 
 ## Features
 - Clean and modern UI
