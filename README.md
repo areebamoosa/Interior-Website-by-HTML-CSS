@@ -10,6 +10,3 @@ This is my first-ever project, a simple yet elegant interior design website show
 ## Note
 This website is **not responsive** and is designed primarily for desktop viewing.
 
-## Author
-Areeba Moosa
-
